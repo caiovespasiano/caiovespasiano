@@ -28,6 +28,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/caiovespasiano" target="_blank">
+    <img src="https://ghstats.dev/api/card?username=caiovespasiano&hide_border=true&hide_title=true&size=compact&compact_count=3&hide=stars" alt="GitHub Stats Card" />
+  </a>
+</p>
+
+---
+
 ## **About**
 
 I like building things, figuring out how they work, and turning ideas into reality.
@@ -56,14 +64,6 @@ Most of it lives in private repositories. What is public here is the visible edg
 **Backend**
 
 <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark"></a>
-
----
-
-<p align="center">
-  <a href="https://github.com/caiovespasiano" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=caiovespasiano&hide_border=true&theme=dark" alt="GitHub streak stats">
-  </a>
-</p>
 
 ---
 
